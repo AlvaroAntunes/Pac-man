@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -std=c11
 
-all: geraos main executable
+all: geraos main execute
 
 geraos:
 	$(CC) $(CFLAGS) -c codigos/*.c
@@ -9,7 +9,7 @@ geraos:
 main:
 	$(CC) $(CFLAGS) -o main *.o
 
-executable:
+execute:
 	./main casos/01
 
 clean:
