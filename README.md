@@ -10,7 +10,7 @@ Pacman é um jogo clássico e atemporal que desafia os jogadores a controlar um 
 
 - O Pacman nessa versão simplificada é representado pelo símbolo '>'.
 - Os fantasmas são representados pelas letras B, P, I, C.
-- Controle o Pacman com as teclas w(cima), s(baixo), a(esquerda) e d(direita).
+- Controle o Pacman com as teclas w (cima), s (baixo), a (esquerda) e d (direita).
 - Evite fantasmas enquanto coleta pontos no labirinto.
 - Ganhe pontos extras comendo frutas especiais.
 - Desafie seus reflexos e estratégias para sobreviver o maior tempo possível (nessa versão, cada mapa tem um número máximo de jogadas).
