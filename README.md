@@ -1,4 +1,4 @@
-# Pacman - Jogo em C para Terminal
+# Pacman - Jogo em C para terminal
 
 ![Pacman](https://veja.abril.com.br/wp-content/uploads/2016/05/pac-man-original.png)
 
