@@ -1,6 +1,6 @@
 # Pacman - Jogo em C para Terminal
 
-![Pacman](https://www.google.com/url?sa=i&url=https%3A%2F%2Fveja.abril.com.br%2Ftecnologia%2Fia-da-microsoft-atinge-pontuacao-maxima-no-jogo-pac-man&psig=AOvVaw343T9dVvzUtsOlo1GR_9qz&ust=1706013716683000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICrx8WC8YMDFQAAAAAdAAAAABAS)
+![Pacman](https://veja.abril.com.br/wp-content/uploads/2016/05/pac-man-original.png)
 
 ## Descrição
 
