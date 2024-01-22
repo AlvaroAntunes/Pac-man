@@ -5,7 +5,7 @@
 ## Descrição
 
 Pacman é um jogo clássico e atemporal que desafia os jogadores a controlar um personagem amarelo (Pacman) enquanto ele percorre um labirinto, come pontos e evita fantasmas. Este jogo em C para o terminal oferece uma versão simplificada do clássico, mantendo a essência e a diversão do original.
-- Esse jogo foi criado na disciplina de Programação 2 da Universidade Federal do Espírito Santo (UFES) para utilizar, principalmente, os conceitos de ponteiros, alocação dinâmica de memória e TAD (Tipo Abstrato de Dados).
+- Esse jogo foi criado na disciplina de Programação 2 da Universidade Federal do Espírito Santo (UFES) para utilizar, principalmente, os conceitos de ponteiros, alocação dinâmica de memória e Tipo Abstrato de Dados (TAD).
 
 ## Características
 
